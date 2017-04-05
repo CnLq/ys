@@ -1,0 +1,27 @@
+define(function(require, exports, module) {
+	
+	var page = window.location.href;
+    var doAjax=function(data){
+        var url = document.location.protocol+"//"+document.location.host+'/ajax/stat';
+        $.ajax({
+            url: url,
+            type: 'GET',
+            dataType: 'json',
+            data: data,
+        }).success(function(json){
+            return;
+        })
+    };
+
+
+    $("a").on('click',function() {
+        var href = $(this).attr('href');
+        if (href === undefined || href === '') return;
+        doAjax({
+            page:page,
+            action:'click',
+            target:href
+        });
+    });
+
+});

@@ -1,0 +1,1 @@
+if("undefined"==typeof HK||!HK)var HK={};HK.namespace=function(){var i,j,d,a=arguments,o=null;for(i=0;i<a.length;i+=1)for(d=(""+a[i]).split("."),o=HK,j="HK"==d[0]?1:0;j<d.length;j+=1)o[d[j]]=o[d[j]]||{},o=o[d[j]];return o};

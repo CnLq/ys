@@ -1,0 +1,109 @@
+.center .section{margin-top: 0px;}
+.webcam-summary-c2c3 {
+  height: 880px;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("c2c3.jpg")/*tpa=https://statics.ys7.com/mall/public/product_imgs/c2c/c2c3.jpg*/;
+}
+.webcam-summary-c2c3 .public-text {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("c2c3_txt.png")/*tpa=https://statics.ys7.com/mall/public/product_imgs/c2c/c2c3_txt.png*/;
+}
+.c2c4{
+  height: 686px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("c2c4.jpg")/*tpa=https://statics.ys7.com/mall/public/product_imgs/c2c/c2c4.jpg*/;  
+}
+.text-b {
+  width: 100%;
+  font-size: 42px;
+  color: #fff;
+  text-align: center;
+  line-height: 50px;
+  height: 70px;
+  position: relative;
+  top: 300px;
+}
+.webcam-summary-c2c5 {
+  height: 900px;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("c2c5.jpg")/*tpa=https://statics.ys7.com/mall/public/product_imgs/c2c/c2c5.jpg*/;
+}
+ .webcam-summary-c2c5 .public-text {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("c2c5_txt.png")/*tpa=https://statics.ys7.com/mall/public/product_imgs/c2c/c2c5_txt.png*/;
+}
+.c2c6{
+  height: 686px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("c2c6.jpg")/*tpa=https://statics.ys7.com/mall/public/product_imgs/c2c/c2c6.jpg*/;    
+}
+.webcam-summary-c2c7 {
+  height: 743px;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("c2c7.jpg")/*tpa=https://statics.ys7.com/mall/public/product_imgs/c2c/c2c7.jpg*/;
+}
+ .webcam-summary-c2c7 .public-text {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("c2c7_txt.png")/*tpa=https://statics.ys7.com/mall/public/product_imgs/c2c/c2c7_txt.png*/;
+}
+.c2c8{
+  height: 686px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("c2c8.jpg")/*tpa=https://statics.ys7.com/mall/public/product_imgs/c2c/c2c8.jpg*/;    
+}
+.webcam-summary-c2c9 {
+  height: 743px;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("c2c9.jpg")/*tpa=https://statics.ys7.com/mall/public/product_imgs/c2c/c2c9.jpg*/;
+}
+ .webcam-summary-c2c9 .public-text {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("c2c9_txt.png")/*tpa=https://statics.ys7.com/mall/public/product_imgs/c2c/c2c9_txt.png*/;
+}
+.c2c10{
+  height: 686px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("c2c10.jpg")/*tpa=https://statics.ys7.com/mall/public/product_imgs/c2c/c2c10.jpg*/;    
+}
+.webcam-summary-c2c11 {
+  height: 919px;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("c2c11.jpg")/*tpa=https://statics.ys7.com/mall/public/product_imgs/c2c/c2c11.jpg*/;
+}
+ .webcam-summary-c2c11 .public-text {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("c2c11_txt.png")/*tpa=https://statics.ys7.com/mall/public/product_imgs/c2c/c2c11_txt.png*/;
+}
+.c2c12{
+  height: 686px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url("c2c12.jpg")/*tpa=https://statics.ys7.com/mall/public/product_imgs/c2c/c2c12.jpg*/;    
+}
+.c2min-banner-text.c2c{ height: 170px; width: 555px; background: url("c2c-banner-text.png")/*tpa=https://statics.ys7.com/mall/public/product_imgs/c2c/c2c-banner-text.png*/ no-repeat; position: absolute; left: 50%; top: 50px; margin-left: -395px; cursor: pointer;}
+
+.c2min-banner-ctrl.c2c{
+  top: 305px;
+}
+.c2min-banner-panel.c2c,.c2min-banner.c2c{
+  height: 656px;
+}

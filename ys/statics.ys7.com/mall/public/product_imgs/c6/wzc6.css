@@ -1,0 +1,32 @@
+.bg1{
+    width: 100%;
+    height: 570px;
+    background: #3d3d3d url("s6_vd.jpg")/*tpa=https://statics.ys7.com/mall/public/product_imgs/c6/s6_vd.jpg*/ center top no-repeat;
+}
+
+.video1 img{width: 754px; height: 413px;}
+
+div.clearimg.video1{width: 754px; height: 413px; }
+
+.bg1 .video_outer{position: relative;top: 68px;width: 778px;
+margin: 0 auto;}
+.video_outer img{cursor: pointer;}
+.pwhole img{vertical-align: bottom;}
+.center .tab_cont .pwhole img.clearimg{
+    position: relative;
+    left: 0; 
+    margin-left: 0; 
+}
+#showbtn a:hover{text-decoration: none;}
+.pantip{ background: url("pantip.jpg")/*tpa=https://statics.ys7.com/mall/public/product_imgs/c6/pantip.jpg*/; width: 864px;height: 178px;}
+.listen img{
+position: relative;
+left: 50%;
+margin-left: -960px;
+}
+.pwhole .img { width: 1920px; left: 50%; margin-left: -960px; position: relative;}
+
+.prev{ background: url("c2mini-banner-ctrl.png")/*tpa=https://statics.ys7.com/mall/public/product_imgs/c6/c2mini-banner-ctrl.png*/ 0 16px no-repeat; left: 505px;}
+.prev:hover{ background: url("c2mini-banner-ctrl.png")/*tpa=https://statics.ys7.com/mall/public/product_imgs/c6/c2mini-banner-ctrl.png*/ 0 -164px no-repeat;}
+.next{ background: url("c2mini-banner-ctrl.png")/*tpa=https://statics.ys7.com/mall/public/product_imgs/c6/c2mini-banner-ctrl.png*/ 0 -58px no-repeat; right: 505px;}
+.next:hover{ background: url("c2mini-banner-ctrl.png")/*tpa=https://statics.ys7.com/mall/public/product_imgs/c6/c2mini-banner-ctrl.png*/ 0 -288px no-repeat;}
